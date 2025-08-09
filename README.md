@@ -40,7 +40,7 @@ To build and run this project yourself, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+    git clone [git clone https://github.com/itzHari16/SmartLink-Config.git](git clone https://github.com/itzHari16/SmartLink-Config.git)
     ```
 2.  **Open in Android Studio:**
     Open the project in the latest version of Android Studio (Iguana or newer is recommended).
@@ -58,6 +58,7 @@ To build and run this project yourself, follow these steps:
 2.  **Bluetooth Config:** On the "Device Config" tab, tap the radar icon to scan for Bluetooth devices. Select a device from the list, fill in the WiFi details, and tap "Send Configuration."
 
 3.  **Network Scan:** Switch to the "Network Scanner" tab and tap "Scan WiFi Network" to discover all devices currently on your local network.
+
 
 
 
