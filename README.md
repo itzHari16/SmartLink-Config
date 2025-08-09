@@ -40,7 +40,7 @@ To build and run this project yourself, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone git clone https://github.com/itzHari16/SmartLink-Config.git
+    git clone [https://github.com/itzHari16/SmartLink-Config.git](https://github.com/itzHari16/SmartLink-Config.git)
     ```
 2.  **Open in Android Studio:**
     Open the project in the latest version of Android Studio (Iguana or newer is recommended).
