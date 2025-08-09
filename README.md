@@ -14,9 +14,9 @@ A modern, proof-of-concept Android application designed to configure IoT devices
 ---
 ## 📸 Screenshots
 
-| Login Screen                                       | Device Configuration                                   | Network Scanner                                  |
-| -------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------ |
-| <img src="login.png?raw=true" width="200">     |  <img src="config.png?raw=true" width="200">      | <img src="networkscan?raw=true" width="200">    |
+| Login Screen                                   | Device Configuration                              | Network Scanner                                  |
+| ---------------------------------------------- | --------------------------------------------------| ------------------------------------------------ |
+| <img src="login.png?raw=true" width="300">     |  <img src="config.png?raw=true" width="300">      | <img src="networkscan.png?raw=true" width="300"> |
 
 *To add your screenshots, place the image files in your repository and replace `path/to/your/screenshot.png` with the correct file path.*
 
@@ -58,5 +58,6 @@ To build and run this project yourself, follow these steps:
 2.  **Bluetooth Config:** On the "Device Config" tab, tap the radar icon to scan for Bluetooth devices. Select a device from the list, fill in the WiFi details, and tap "Send Configuration."
 
 3.  **Network Scan:** Switch to the "Network Scanner" tab and tap "Scan WiFi Network" to discover all devices currently on your local network.
+
 
 
